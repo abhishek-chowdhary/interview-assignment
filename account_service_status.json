@@ -1,0 +1,272 @@
+[
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "prod",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-west-2:936475071010:cluster/oregon-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  },
+  {
+    "account_name": "test",
+    "clusters": [
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/nvirginia-cluster",
+        "services": [
+          {
+            "arn:aws:ecs:us-east-1:936475071010:service/nvirginia-cluster/nginx": {
+              "status": "ACTIVE",
+              "desiredCountBefore": 0,
+              "desiredCountAfter": 0
+            }
+          }
+        ]
+      },
+      {
+        "clusterArn": "arn:aws:ecs:us-east-1:936475071010:cluster/empty-cluster",
+        "services": []
+      }
+    ]
+  }
+]
